@@ -1,0 +1,14 @@
+public class arraysearch 
+{
+    public static void main(String args[])
+    {
+        int a[]={7,10,11,18,69};
+        int searchelement = a[3];
+        for(int i=0;i<a.length;i++)
+        {
+            if (a[i]==searchelement);
+        }
+        System.out.print("Searched element is:"+searchelement);
+    }
+            
+}
